@@ -1,8 +1,8 @@
-# KNN-Algorithms
+# KNN-Algorithms🎯
 The the new repo displays the use of the knn algorithms to classify the stock datasets
 Stock Prediction Using K-Nearest Neighbor (kNN) Algorithm
 
- # Some Stock Market terminologies
+ # Some Stock Market terminologies📊📉📈
 
 OPEN is the price of the stock at the beginning of the trading day (it need not be the closing price of the previous day).
 
